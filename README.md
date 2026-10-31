@@ -45,6 +45,13 @@ main.c application
         └── Independent watchdog
               └── STM32L476RG memory-mapped registers
 ```
+
+## 📚 Documentation
+
+- [Pin Configuration & Hardware Connections](docs/pin_connections.md)
+- [Testing Procedures & Verification Results](docs/testing_procedure.md)
+
+
 ## Register-Level Firmware Architecture & Peripheral Interaction
 ![Register-Level Firmware Architecture](results/mermaid-diagram.png)
 
