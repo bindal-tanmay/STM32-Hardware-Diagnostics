@@ -46,6 +46,7 @@ main.c application
               └── STM32L476RG memory-mapped registers
 ```
 ## Register-Level Firmware Architecture & Peripheral Interaction
+![Register-Level Firmware Architecture](results/mermaid-diagram.png)
 
 ## 📸 Hardware Demonstrations
 
