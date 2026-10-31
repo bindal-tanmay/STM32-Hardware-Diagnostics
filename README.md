@@ -143,10 +143,27 @@ The project uses direct register access through `Inc/stm32l476_registers.h`, rat
 ## Repository layout
 
 ```text
-Inc/       Header files
-Src/       Peripheral drivers and application source
-Startup/   Cortex-M startup and interrupt vector code
-README.md  Project overview, setup and verification notes
+STM32-Hardware-Diagnostics/
+│
+├── hardware_diag/
+│   ├── Inc/
+│   ├── Src/
+│   ├── Startup/
+│   ├── .settings/
+│   ├── .project
+│   ├── .cproject
+│   └── Linker Scripts
+│
+├── docs/
+│   ├── pin_connections.md
+│   └── testing_procedure.md
+│
+├── results/
+│   ├── Hardware screenshots
+│   └── Architecture diagram
+│
+├── README.md
+└── .gitignore
 ```
 
 ## Possible extensions
