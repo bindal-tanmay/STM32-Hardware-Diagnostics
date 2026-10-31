@@ -173,3 +173,8 @@ Structured fault logging, reset-cause reporting, and ADC transfers using DMA are
 ## Author
 
 **Tanmay Bindal** · [GitHub](https://github.com/bindal-tanmay)
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
