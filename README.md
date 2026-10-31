@@ -102,6 +102,34 @@ The project uses direct register access through `Inc/stm32l476_registers.h`, rat
 - Verify wiring and signal behavior with suitable test equipment.
 - Correlate register state with UART diagnostics and hardware observations.
 
+## 📸 Hardware Demonstrations
+
+### 1. Complete Hardware Setup
+
+<p align="center">
+  <img src="results/hardware_setup.jpeg" width="450">
+  <img src="results/hardware_setup2.jpeg" width="450">
+</p>
+
+### 2. UART Diagnostic CLI
+
+<p align="center">
+  <img src="results/cli_output1.jpeg" width="48%">
+  <img src="results/cli_output2.jpeg" width="48%">
+</p>
+
+### 3. PWM Signal Verification
+
+<p align="center">
+  <img src="results/pwm_output.jpeg" width="600">
+</p>
+
+### 4. Register-Level Debugging
+
+<p align="center">
+  <img src="results/sfr_debug.jpeg" width="600">
+</p>
+
 ## Repository layout
 
 ```text
