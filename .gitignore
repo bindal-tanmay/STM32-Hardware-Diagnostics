@@ -1,0 +1,21 @@
+# STM32CubeIDE build output
+hardware_diag/Debug/
+hardware_diag/Release/
+
+# Eclipse workspace metadata
+.metadata/
+**/.metadata/
+
+# Compiled files
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.d
+
+# Temporary files
+*.swp
+*.swo
